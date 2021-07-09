@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #000000;
+  font-size: 5.625rem;
+  margin: 40px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+
+}
+
+h2{
+  color: #800000;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 300%;
+}
+
+h3 {
+  color: black;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 200%;
+}
+
+p {
+  font-size: 20px;
+}
+
+hr {
+  border: dotted darkgrey 6px;
+  border-bottom: none;
+  width: 4;
+}
+
+.top-container {
+  background-color: grey;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: darkgrey;
+}
+
+.bottom-container {
+background-color: darkgrey;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.student {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.code-img {
+  width: 30%;
+
+}
+
+.chilli-img {
+  width: 25%;
+}
+
+.code-skill-description{
+  font-size: 128%;
+
+}
